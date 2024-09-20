@@ -54,7 +54,6 @@
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
-- [server](#server)
 - [shell](#shell)
 - [statistics](#statistics)
 - [terraform](#terraform)
@@ -139,7 +138,6 @@
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 - [gkoerk/docker-swarm-cookbook](https://github.com/gkoerk/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 
 ## firefox 
 
@@ -166,7 +164,6 @@
 
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
 
 ## haskell 
@@ -207,7 +204,6 @@
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [ricoberger/sealed-secrets-web](https://github.com/ricoberger/sealed-secrets-web) - A web interface for Sealed Secrets by Bitnami.
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
-- [rimusz/charts](https://github.com/rimusz/charts) - Helm Charts for Kubernetes
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
@@ -226,7 +222,6 @@
 
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
-- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 
 ## macos 
@@ -267,7 +262,6 @@
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [suppaduppax/TrueNAS-Report](https://github.com/suppaduppax/TrueNAS-Report) - SMART & ZPool Status Report for FreeNAS
 - [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
-- [fandangos/Kodi-HDR-Edition](https://github.com/fandangos/Kodi-HDR-Edition) - Kodi HDR Edition
 - [VorlonCD/bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
 - [toddaustin07/DC_alarmserver](https://github.com/toddaustin07/DC_alarmserver) - Direct Connected Devices for alarmserver
 - [nmaupu/freenas-provisioner](https://github.com/nmaupu/freenas-provisioner) - Kubernetes external provisioner using Freenas as backend
@@ -294,12 +288,10 @@
 - [sofixa/FreeNAS-InfluxDB](https://github.com/sofixa/FreeNAS-InfluxDB) - A bunch of InfluxDB templates to parse the Graphite output of FreeNAS
 - [codersaur/SmartThings](https://github.com/codersaur/SmartThings) - Samsung SmartThings SmartApps and Device Handlers
 - [roboticsound/Pulsarr](https://github.com/roboticsound/Pulsarr) - 
-- [ackbarr/Emby.Plugins](https://github.com/ackbarr/Emby.Plugins) - Plugins for Emby (http://emby.media)
 - [SillyGoat/PIAPortForward](https://github.com/SillyGoat/PIAPortForward) - 
 - [VideoExpertsGroup/Chrome.RTSP.Player](https://github.com/VideoExpertsGroup/Chrome.RTSP.Player) - Chrome RTSP player
 - [toomuchio/plex-nginx-reverseproxy](https://github.com/toomuchio/plex-nginx-reverseproxy) - Configuration to serve Plex Media Center https://plex.tv using Nginx https://nginx.com
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
-- [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [erocm123/SmartThingsPublic](https://github.com/erocm123/SmartThingsPublic) - 
 - [robertvandervoort/SmartThings](https://github.com/robertvandervoort/SmartThings) - 
 - [jonscheiding/st-web-switches](https://github.com/jonscheiding/st-web-switches) - Node.js app and SmartApp-based API for remotely controlling switches in SmartThings
@@ -316,7 +308,6 @@
 - [DirtyJerz/LetsEncryptEmby](https://github.com/DirtyJerz/LetsEncryptEmby) - C# console app to demonstrate LE interaction.
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [jastBytes/SyncthingTray](https://github.com/jastBytes/SyncthingTray) - Syncthing wrapper for Windows. Includes a small interface to configure start on boot and puts syncthing into tray instead of the console window.
-- [Anesidora/Anesidora](https://github.com/Anesidora/Anesidora) - Anesidora - Pandora extension for Google Chrome
 - [MediaBrowser/plugin.video.emby](https://github.com/MediaBrowser/plugin.video.emby) - Integrate your Emby media library in Kodi
 
 ## perl 
@@ -327,7 +318,6 @@
 
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
 - [gigi206/VSCode-Anywhere](https://github.com/gigi206/VSCode-Anywhere) - VSCode with preconfigured tools for your programming languages : binaries, settings, extensions and documentations
-- [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 
 ## powershell 
@@ -382,10 +372,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gkoerk/docker-swarm-cookbook](https://github.com/gkoerk/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
 
-## server 
-
-- [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
-
 ## shell 
 
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
@@ -423,7 +409,6 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [crombeen/ansible](https://github.com/crombeen/ansible) - Ansible playbooks for managing an elementary school IT infrastructure (mostly Windows desktops)
-- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 
 ## wordpress 
