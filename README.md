@@ -24,6 +24,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -54,6 +55,7 @@
 
 ## CSS 
 
+- [rfdonnelly/rfdonnelly.github.io-source](https://github.com/rfdonnelly/rfdonnelly.github.io-source) - Source for https://rfdonnelly.github.io
 - [mimugmail/opn-repo](https://github.com/mimugmail/opn-repo) - OPNsense repo by mimugmail
 
 ## Dockerfile 
@@ -83,6 +85,7 @@
 
 ## HTML 
 
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [BillKeenan/dead-drop-python](https://github.com/BillKeenan/dead-drop-python) - secure 1 time message generator
 
@@ -92,6 +95,7 @@
 
 ## JavaScript 
 
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [ady624/webCoRE](https://github.com/ady624/webCoRE) - webCoRE is a web version of CoRE
 - [ricoberger/sealed-secrets-web](https://github.com/ricoberger/sealed-secrets-web) - A web interface for Sealed Secrets by Bitnami.
@@ -120,6 +124,7 @@
 
 ## Others 
 
+- [rmccomb-bnet/k3s](https://github.com/rmccomb-bnet/k3s) - kubernetes config for k3s hybrid Raspberry Pi + Cloud cluster. Automated with Flux GitOps
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [zebpalmer/kubernetes-transmission-openvpn](https://github.com/zebpalmer/kubernetes-transmission-openvpn) - Example configs for running transmission with openvpn on a kubernetes cluster
 - [clarenceb/traefik-ingress-example](https://github.com/clarenceb/traefik-ingress-example) - Demo using the Traefik ingress controller in AKS
@@ -148,6 +153,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - 
 - [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
@@ -175,12 +181,18 @@
 
 - [robertvandervoort/SmartThings](https://github.com/robertvandervoort/SmartThings) - 
 
+## Ruby 
+
+- [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter.
+
 ## Rust 
 
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 
 ## Shell 
 
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
+- [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [Kimi450/ubuntu_server](https://github.com/Kimi450/ubuntu_server) - Setup an ubuntu server with ease.
 - [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
 - [suppaduppax/TrueNAS-Report](https://github.com/suppaduppax/TrueNAS-Report) - SMART & ZPool Status Report for FreeNAS
