@@ -7,7 +7,6 @@
 
 - [Batchfile](#batchfile)
 - [C#](#c#)
-- [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -18,7 +17,6 @@
 - [JavaScript](#javascript)
 - [Makefile](#makefile)
 - [Monkey C](#monkey-c)
-- [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -40,18 +38,10 @@
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [VorlonCD/bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
 - [betonme/kpenhancedlistview](https://github.com/betonme/kpenhancedlistview) - Automatically exported from code.google.com/p/kpenhancedlistview
-- [ackbarr/Emby.Plugins](https://github.com/ackbarr/Emby.Plugins) - Plugins for Emby (http://emby.media)
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
-- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [DirtyJerz/LetsEncryptEmby](https://github.com/DirtyJerz/LetsEncryptEmby) - C# console app to demonstrate LE interaction.
 - [jastBytes/SyncthingTray](https://github.com/jastBytes/SyncthingTray) - Syncthing wrapper for Windows. Includes a small interface to configure start on boot and puts syncthing into tray instead of the console window.
-
-## C++ 
-
-- [fandangos/Kodi-HDR-Edition](https://github.com/fandangos/Kodi-HDR-Edition) - Kodi HDR Edition
 
 ## CSS 
 
@@ -108,7 +98,6 @@
 - [jonscheiding/st-web-switches](https://github.com/jonscheiding/st-web-switches) - Node.js app and SmartApp-based API for remotely controlling switches in SmartThings
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
-- [Anesidora/Anesidora](https://github.com/Anesidora/Anesidora) - Anesidora - Pandora extension for Google Chrome
 
 ## Makefile 
 
@@ -117,10 +106,6 @@
 ## Monkey C 
 
 - [roelofk/HeartRateRunner](https://github.com/roelofk/HeartRateRunner) - Garmin connect IQ HeartRateRunner fields
-
-## Mustache 
-
-- [rimusz/charts](https://github.com/rimusz/charts) - Helm Charts for Kubernetes
 
 ## Others 
 
@@ -143,7 +128,6 @@
 ## PHP 
 
 - [hoadv/employee-mgmt-laravel5.4-adminlte](https://github.com/hoadv/employee-mgmt-laravel5.4-adminlte) - The project is using laravel 5.4 and adminlte
-- [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
 
 ## PowerShell 
