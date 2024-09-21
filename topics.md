@@ -36,6 +36,7 @@
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [linux](#linux)
+- [low-code](#low-code)
 - [macos](#macos)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
@@ -50,6 +51,8 @@
 - [python](#python)
 - [qt](#qt)
 - [react](#react)
+- [reactjs](#reactjs)
+- [redux](#redux)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -224,6 +227,10 @@
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 
+## low-code 
+
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
+
 ## macos 
 
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
@@ -351,6 +358,14 @@
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+
+## reactjs 
+
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
+
+## redux 
+
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
 
 ## ruby 
 
