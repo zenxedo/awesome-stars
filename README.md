@@ -27,6 +27,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Standard ML](#standard-ml)
+- [TypeScript](#typescript)
 
 ## Batchfile 
 
@@ -200,6 +201,10 @@
 ## Standard ML 
 
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
+
+## TypeScript 
+
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
 
 ## License
