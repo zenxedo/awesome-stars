@@ -45,6 +45,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
 - [perl](#perl)
@@ -55,8 +56,6 @@
 - [python](#python)
 - [qt](#qt)
 - [react](#react)
-- [reactjs](#reactjs)
-- [redux](#redux)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -270,6 +269,10 @@
 
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
 
+## nodejs 
+
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
+
 ## open-source 
 
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -383,14 +386,6 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 
-## reactjs 
-
-- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
-
-## redux 
-
-- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
-
 ## ruby 
 
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
@@ -408,6 +403,7 @@
 
 ## self-hosted 
 
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gkoerk/docker-swarm-cookbook](https://github.com/gkoerk/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
 
