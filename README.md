@@ -35,7 +35,7 @@
 
 ## C# # 
 
-- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - World's first no-code low-code app builder focuses on a data-first approach, allowing users to create applications from scratch. The code generator builds a drag-and-drop React application along with 
 - [miyconst/Mi899](https://github.com/miyconst/Mi899) - Tool set for Chinese X99 motherboards
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [VorlonCD/bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
