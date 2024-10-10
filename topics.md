@@ -246,7 +246,7 @@
 
 ## low-code 
 
-- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - World's first no-code low-code app builder focuses on a data-first approach, allowing users to create applications from scratch. The code generator builds a drag-and-drop React application along with 
 
 ## macos 
 
@@ -271,7 +271,7 @@
 
 ## nodejs 
 
-- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - World's first no-code low-code app builder focuses on a data-first approach, allowing users to create applications from scratch. The code generator builds a drag-and-drop React application along with 
 
 ## open-source 
 
@@ -403,7 +403,7 @@
 
 ## self-hosted 
 
-- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - The code generator creates a drag-and-drop React application and a .NET Core API with a MySQL database.
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - World's first no-code low-code app builder focuses on a data-first approach, allowing users to create applications from scratch. The code generator builds a drag-and-drop React application along with 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gkoerk/docker-swarm-cookbook](https://github.com/gkoerk/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
 
