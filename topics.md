@@ -279,6 +279,7 @@
 
 ## others 
 
+- [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) - Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
 - [rfdonnelly/rfdonnelly.github.io-source](https://github.com/rfdonnelly/rfdonnelly.github.io-source) - Source for https://rfdonnelly.github.io
 - [rmccomb-bnet/k3s](https://github.com/rmccomb-bnet/k3s) - kubernetes config for k3s hybrid Raspberry Pi + Cloud cluster. Automated with Flux GitOps
