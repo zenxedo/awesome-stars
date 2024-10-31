@@ -56,6 +56,7 @@
 
 ## Go 
 
+- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -112,6 +113,7 @@
 
 ## Others 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [rmccomb-bnet/k3s](https://github.com/rmccomb-bnet/k3s) - kubernetes config for k3s hybrid Raspberry Pi + Cloud cluster. Automated with Flux GitOps
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [zebpalmer/kubernetes-transmission-openvpn](https://github.com/zebpalmer/kubernetes-transmission-openvpn) - Example configs for running transmission with openvpn on a kubernetes cluster
