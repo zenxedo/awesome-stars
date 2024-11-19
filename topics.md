@@ -416,6 +416,7 @@
 
 ## self-hosted 
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - World's first no-code low-code app builder focuses on a data-first approach, allowing users to create applications from scratch. The code generator builds a drag-and-drop React application along with 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
