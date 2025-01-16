@@ -52,7 +52,7 @@
 
 ## Dockerfile 
 
-- [linuxserver/docker-organizr](https://github.com/linuxserver/docker-organizr) - DEPRECATED
+- [linuxserver-archive/docker-organizr](https://github.com/linuxserver-archive/docker-organizr) - DEPRECATED
 
 ## Go 
 
