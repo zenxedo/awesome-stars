@@ -327,7 +327,7 @@
 - [betonme/kpenhancedlistview](https://github.com/betonme/kpenhancedlistview) - Automatically exported from code.google.com/p/kpenhancedlistview
 - [joshfraser/robinhood-to-csv](https://github.com/joshfraser/robinhood-to-csv) - Python script to export Robinhood trades to a CSV file
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
-- [linuxserver/docker-organizr](https://github.com/linuxserver/docker-organizr) - DEPRECATED
+- [linuxserver-archive/docker-organizr](https://github.com/linuxserver-archive/docker-organizr) - DEPRECATED
 - [Griesbacher/omd-grafana-container](https://github.com/Griesbacher/omd-grafana-container) - OMD with Grafana, InfluxDB, Nagflux and Histou configured
 - [sofixa/FreeNAS-InfluxDB](https://github.com/sofixa/FreeNAS-InfluxDB) - A bunch of InfluxDB templates to parse the Graphite output of FreeNAS
 - [codersaur/SmartThings](https://github.com/codersaur/SmartThings) - Samsung SmartThings SmartApps and Device Handlers
