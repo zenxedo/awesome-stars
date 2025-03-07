@@ -79,7 +79,6 @@
 
 ## HCL 
 
-- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [Stackclash/home-cluster](https://github.com/Stackclash/home-cluster) - GitOps principles to define k3s home cluster state via code
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
@@ -198,6 +197,7 @@
 - [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
 - [suppaduppax/TrueNAS-Report](https://github.com/suppaduppax/TrueNAS-Report) - SMART & ZPool Status Report for FreeNAS
 - [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
+- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [toboshii/k8s-gitops](https://github.com/toboshii/k8s-gitops) - 
 - [kelvl/k3s-gitops](https://github.com/kelvl/k3s-gitops) - Gitops for k3s cluster
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
