@@ -46,6 +46,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [no-code](#no-code)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
@@ -278,6 +279,10 @@
 ## mysql 
 
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+
+## no-code 
+
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - World's first no-code low-code app builder focuses on a data-first approach, allowing users to create applications from scratch. The code generator builds a drag-and-drop React application along with 
 
 ## nodejs 
 
