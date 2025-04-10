@@ -16,6 +16,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Makefile](#makefile)
 - [Monkey C](#monkey-c)
 - [Others](#others)
@@ -110,6 +111,10 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 
+## Jinja 
+
+- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
+
 ## Makefile 
 
 - [klutchell/mediaserver](https://github.com/klutchell/mediaserver) - docker-based plex & usenet media server using custom subdomains with tls
@@ -202,7 +207,6 @@
 - [kelvl/k3s-gitops](https://github.com/kelvl/k3s-gitops) - Gitops for k3s cluster
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
-- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
 - [unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
 - [Griesbacher/omd-grafana-container](https://github.com/Griesbacher/omd-grafana-container) - OMD with Grafana, InfluxDB, Nagflux and Histou configured
