@@ -16,7 +16,6 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Makefile](#makefile)
 - [Monkey C](#monkey-c)
 - [Others](#others)
@@ -110,10 +109,6 @@
 - [jonscheiding/st-web-switches](https://github.com/jonscheiding/st-web-switches) - Node.js app and SmartApp-based API for remotely controlling switches in SmartThings
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
-
-## Jinja 
-
-- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 
 ## Makefile 
 
@@ -227,6 +222,7 @@
 ## YAML 
 
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
+- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 
 
 ## License
