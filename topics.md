@@ -20,6 +20,7 @@
 - [cpp](#cpp)
 - [css](#css)
 - [database](#database)
+- [development](#development)
 - [devops](#devops)
 - [docker](#docker)
 - [firefox](#firefox)
@@ -146,6 +147,10 @@
 ## database 
 
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+
+## development 
+
+- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 
 ## devops 
 
