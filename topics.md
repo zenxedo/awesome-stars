@@ -194,7 +194,6 @@
 
 ## hacktoberfest 
 
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
 
