@@ -96,6 +96,7 @@
 ## JavaScript 
 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [ady624/webCoRE](https://github.com/ady624/webCoRE) - webCoRE is a web version of CoRE
@@ -151,7 +152,6 @@
 
 - [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
 - [moleculekayak/fertilizer](https://github.com/moleculekayak/fertilizer) - 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - 
