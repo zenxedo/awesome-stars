@@ -287,7 +287,7 @@
 
 ## mysql 
 
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 
 ## no-code 
 
@@ -374,7 +374,7 @@
 
 ## php 
 
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 - [gigi206/VSCode-Anywhere](https://github.com/gigi206/VSCode-Anywhere) - VSCode with preconfigured tools for your programming languages : binaries, settings, extensions and documentations
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 
@@ -423,6 +423,7 @@
 
 ## rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 
 ## security 
@@ -465,7 +466,7 @@
 
 - [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - 
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 
 ## vagrant 
 
@@ -489,7 +490,7 @@
 
 ## wordpress 
 
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 
 
 ## License
