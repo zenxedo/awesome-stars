@@ -194,7 +194,7 @@
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) - Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
-- [Kimi450/ubuntu_server](https://github.com/Kimi450/ubuntu_server) - Setup an ubuntu server with ease.
+- [Kimi450/ubuntu-server](https://github.com/Kimi450/ubuntu-server) - Setup an ubuntu server with ease.
 - [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
 - [suppaduppax/TrueNAS-Report](https://github.com/suppaduppax/TrueNAS-Report) - SMART & ZPool Status Report for FreeNAS
 - [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
