@@ -311,7 +311,7 @@
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [rfdonnelly/rfdonnelly.github.io-source](https://github.com/rfdonnelly/rfdonnelly.github.io-source) - Source for https://rfdonnelly.github.io
 - [rmccomb-bnet/k3s](https://github.com/rmccomb-bnet/k3s) - kubernetes config for k3s hybrid Raspberry Pi + Cloud cluster. Automated with Flux GitOps
-- [Kimi450/ubuntu_server](https://github.com/Kimi450/ubuntu_server) - Setup an ubuntu server with ease.
+- [Kimi450/ubuntu-server](https://github.com/Kimi450/ubuntu-server) - Setup an ubuntu server with ease.
 - [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
 - [miyconst/Mi899](https://github.com/miyconst/Mi899) - Tool set for Chinese X99 motherboards
 - [mimugmail/opn-repo](https://github.com/mimugmail/opn-repo) - OPNsense repo by mimugmail
