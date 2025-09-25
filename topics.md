@@ -16,6 +16,7 @@
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [cloud](#cloud)
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [css](#css)
@@ -131,6 +132,10 @@
 ## c-plus-plus 
 
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
+
+## cloud 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## compiler 
 
