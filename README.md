@@ -16,6 +16,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
+- [Just](#just)
 - [Makefile](#makefile)
 - [Monkey C](#monkey-c)
 - [Others](#others)
@@ -79,7 +80,6 @@
 
 ## HCL 
 
-- [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [Stackclash/home-cluster](https://github.com/Stackclash/home-cluster) - GitOps principles to define k3s home cluster state via code
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 
@@ -110,6 +110,10 @@
 - [jonscheiding/st-web-switches](https://github.com/jonscheiding/st-web-switches) - Node.js app and SmartApp-based API for remotely controlling switches in SmartThings
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
+
+## Just 
+
+- [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 
 ## Makefile 
 
