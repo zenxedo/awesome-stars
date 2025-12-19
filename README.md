@@ -158,7 +158,7 @@
 - [moleculekayak/fertilizer](https://github.com/moleculekayak/fertilizer) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - 
+- [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - Vagrant box templates with Packer for building development environments
 - [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
 - [toddaustin07/DC_alarmserver](https://github.com/toddaustin07/DC_alarmserver) - Direct Connected Devices for alarmserver
 - [H1R0GH057/Anonymous](https://github.com/H1R0GH057/Anonymous) - 
