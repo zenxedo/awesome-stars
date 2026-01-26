@@ -45,6 +45,7 @@
 - [linux](#linux)
 - [low-code](#low-code)
 - [macos](#macos)
+- [malware](#malware)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -277,6 +278,10 @@
 ## macos 
 
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
+
+## malware 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## microsoft 
 
