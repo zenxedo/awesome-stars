@@ -298,7 +298,7 @@
 
 ## mysql 
 
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Production NGINX made simple: secure defaults, terminal‑first, performance‑obsessed. The production standard for modern PHP and Web developers. Elevating the ecosystem, one server at a time.
 
 ## no-code 
 
@@ -384,7 +384,7 @@
 
 ## php 
 
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Production NGINX made simple: secure defaults, terminal‑first, performance‑obsessed. The production standard for modern PHP and Web developers. Elevating the ecosystem, one server at a time.
 - [gigi206/VSCode-Anywhere](https://github.com/gigi206/VSCode-Anywhere) - VSCode with preconfigured tools for your programming languages : binaries, settings, extensions and documentations
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 
@@ -475,7 +475,7 @@
 
 - [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - Vagrant box templates with Packer for building development environments
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Production NGINX made simple: secure defaults, terminal‑first, performance‑obsessed. The production standard for modern PHP and Web developers. Elevating the ecosystem, one server at a time.
 
 ## vagrant 
 
@@ -503,7 +503,7 @@
 
 ## wordpress 
 
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Production NGINX made simple: secure defaults, terminal‑first, performance‑obsessed. The production standard for modern PHP and Web developers. Elevating the ecosystem, one server at a time.
 
 ## youtube 
 
