@@ -144,6 +144,7 @@
 
 ## PHP 
 
+- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [hoadv/employee-mgmt-laravel5.4-adminlte](https://github.com/hoadv/employee-mgmt-laravel5.4-adminlte) - The project is using laravel 5.4 and adminlte
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
 
@@ -156,7 +157,7 @@
 
 - [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
 - [moleculekayak/fertilizer](https://github.com/moleculekayak/fertilizer) - 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - Vagrant box templates with Packer for building development environments
 - [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
@@ -202,7 +203,6 @@
 - [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
 - [suppaduppax/TrueNAS-Report](https://github.com/suppaduppax/TrueNAS-Report) - SMART & ZPool Status Report for FreeNAS
 - [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
-- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [toboshii/k8s-gitops](https://github.com/toboshii/k8s-gitops) - 
 - [kelvl/k3s-gitops](https://github.com/kelvl/k3s-gitops) - Gitops for k3s cluster
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
