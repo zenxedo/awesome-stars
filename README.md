@@ -179,7 +179,7 @@
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [petergardfjall/garminexport](https://github.com/petergardfjall/garminexport) - Garmin Connect activity exporter and backup tool
+- [petergardfjall/garminexport](https://github.com/petergardfjall/garminexport) - [DEPRECATED] Garmin Connect activity exporter and backup tool
 - [kjkjava/garmin-connect-export](https://github.com/kjkjava/garmin-connect-export) - Download a copy of your Garmin Connect data, including stats and GPX tracks.
 - [kodi-community-addons/script.skin.helper.service](https://github.com/kodi-community-addons/script.skin.helper.service) - a helper service for Kodi skins
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
