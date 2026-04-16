@@ -373,7 +373,7 @@
 - [joshualyon/ST-Kodi](https://github.com/joshualyon/ST-Kodi) - Kodi for SmartThings - Device Type and SmartApp
 - [NortheBridge/skin.arctic.zephyr.fromashes](https://github.com/NortheBridge/skin.arctic.zephyr.fromashes) - The Arctic Zephyr: From Ashes Theme for Emby for Kodi
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
-- [petergardfjall/garminexport](https://github.com/petergardfjall/garminexport) - Garmin Connect activity exporter and backup tool
+- [petergardfjall/garminexport](https://github.com/petergardfjall/garminexport) - [DEPRECATED] Garmin Connect activity exporter and backup tool
 - [kjkjava/garmin-connect-export](https://github.com/kjkjava/garmin-connect-export) - Download a copy of your Garmin Connect data, including stats and GPX tracks.
 - [kodi-community-addons/script.skin.helper.service](https://github.com/kodi-community-addons/script.skin.helper.service) - a helper service for Kodi skins
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
