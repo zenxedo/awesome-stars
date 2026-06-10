@@ -352,7 +352,6 @@
 - [Ogadai/zwift-mobile-api](https://github.com/Ogadai/zwift-mobile-api) - 
 - [sebastianlinz/FanControl](https://github.com/sebastianlinz/FanControl) - IoT smart fan project
 - [Brismuth-Apps-LLC/bulk-texter-lite](https://github.com/Brismuth-Apps-LLC/bulk-texter-lite) - A chrome extension to automate bulk texting via Google Voice.
-- [infinityworks/Guide_Rancher_Monitoring](https://github.com/infinityworks/Guide_Rancher_Monitoring) - Easy to follow guide on how to deploy and make the best use of the Rancher community catalog template for Prometheus.
 - [betonme/kpenhancedlistview](https://github.com/betonme/kpenhancedlistview) - Automatically exported from code.google.com/p/kpenhancedlistview
 - [joshfraser/robinhood-to-csv](https://github.com/joshfraser/robinhood-to-csv) - Python script to export Robinhood trades to a CSV file
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
