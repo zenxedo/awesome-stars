@@ -139,7 +139,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gkoerk/docker-swarm-cookbook](https://github.com/gkoerk/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
 - [Brismuth-Apps-LLC/bulk-texter-lite](https://github.com/Brismuth-Apps-LLC/bulk-texter-lite) - A chrome extension to automate bulk texting via Google Voice.
-- [infinityworks/Guide_Rancher_Monitoring](https://github.com/infinityworks/Guide_Rancher_Monitoring) - Easy to follow guide on how to deploy and make the best use of the Rancher community catalog template for Prometheus.
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 - [sofixa/FreeNAS-InfluxDB](https://github.com/sofixa/FreeNAS-InfluxDB) - A bunch of InfluxDB templates to parse the Graphite output of FreeNAS
 - [denji/nginx-tuning](https://github.com/denji/nginx-tuning) - NGINX tuning for best performance
