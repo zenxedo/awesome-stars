@@ -12,6 +12,7 @@
 - [Dockerfile](#dockerfile)
 - [Fluent](#fluent)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -74,6 +75,10 @@
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [nmaupu/freenas-provisioner](https://github.com/nmaupu/freenas-provisioner) - Kubernetes external provisioner using Freenas as backend
+
+## Go Template 
+
+- [utkuozdemir/helm-charts](https://github.com/utkuozdemir/helm-charts) - Helm Chart Repository
 
 ## Groovy 
 
@@ -216,7 +221,6 @@
 
 ## Smarty 
 
-- [utkuozdemir/helm-charts](https://github.com/utkuozdemir/helm-charts) - Helm Chart Repository
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 
 ## Standard ML 
