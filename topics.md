@@ -321,7 +321,7 @@
 
 - [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
 - [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services.
-- [moleculekayak/fertilizer](https://github.com/moleculekayak/fertilizer) - 
+- [molecular-labs/fertilizer](https://github.com/molecular-labs/fertilizer) - 
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [rfdonnelly/rfdonnelly.github.io-source](https://github.com/rfdonnelly/rfdonnelly.github.io-source) - Source for https://rfdonnelly.github.io
