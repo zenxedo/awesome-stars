@@ -73,7 +73,6 @@
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [nmaupu/freenas-provisioner](https://github.com/nmaupu/freenas-provisioner) - Kubernetes external provisioner using Freenas as backend
 
 ## Go Template 
@@ -165,7 +164,7 @@
 ## Python 
 
 - [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
-- [moleculekayak/fertilizer](https://github.com/moleculekayak/fertilizer) - 
+- [molecular-labs/fertilizer](https://github.com/molecular-labs/fertilizer) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) - Vagrant box templates with Packer for building development environments
@@ -230,6 +229,7 @@
 ## TypeScript 
 
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 
 ## YAML 
 
