@@ -212,7 +212,7 @@
 - [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
 - [toboshii/k8s-gitops](https://github.com/toboshii/k8s-gitops) - 
 - [kelvl/k3s-gitops](https://github.com/kelvl/k3s-gitops) - Gitops for k3s cluster
-- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code.
+- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code. (Read-only Mirror)
 - [timothystewart6/techno-tim.github.io](https://github.com/timothystewart6/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Production NGINX made simple: secure defaults, terminal‑first, performance‑obsessed. The production standard for modern PHP and Web developers. Elevating the ecosystem, one server at a time.
 - [unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
