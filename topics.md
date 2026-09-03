@@ -107,6 +107,7 @@
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 
 ## awesome-list 
 
@@ -114,6 +115,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+- [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 
 ## azure 
 
@@ -340,7 +342,6 @@
 - [Brismuth-Apps-LLC/bulk-texter-lite](https://github.com/Brismuth-Apps-LLC/bulk-texter-lite) - A chrome extension to automate bulk texting via Google Voice.
 - [betonme/kpenhancedlistview](https://github.com/betonme/kpenhancedlistview) - Automatically exported from code.google.com/p/kpenhancedlistview
 - [joshfraser/robinhood-to-csv](https://github.com/joshfraser/robinhood-to-csv) - Python script to export Robinhood trades to a CSV file
-- [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 - [linuxserver-archive/docker-organizr](https://github.com/linuxserver-archive/docker-organizr) - DEPRECATED
 - [Griesbacher/omd-grafana-container](https://github.com/Griesbacher/omd-grafana-container) - OMD with Grafana, InfluxDB, Nagflux and Histou configured
 - [sofixa/FreeNAS-InfluxDB](https://github.com/sofixa/FreeNAS-InfluxDB) - A bunch of InfluxDB templates to parse the Graphite output of FreeNAS
@@ -376,6 +377,7 @@
 
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Production NGINX made simple: secure defaults, terminal‑first, performance‑obsessed. The production standard for modern PHP and Web developers. Elevating the ecosystem, one server at a time.
 - [gigi206/VSCode-Anywhere](https://github.com/gigi206/VSCode-Anywhere) - VSCode with preconfigured tools for your programming languages : binaries, settings, extensions and documentations
+- [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 
 ## postgresql 
