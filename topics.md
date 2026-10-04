@@ -75,6 +75,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [youtube](#youtube)
 
@@ -496,6 +497,10 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [crombeen/ansible](https://github.com/crombeen/ansible) - Ansible playbooks for managing an elementary school IT infrastructure (mostly Windows desktops)
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
+
+## windows-11 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## wordpress 
 
